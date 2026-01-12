@@ -7,7 +7,7 @@
     "displayName": "EduAPP",
     "dependencies": {
         "cordova-android": "^7.1.4",
-        "cordova-browser": "^5.0.4",
+        "cordova-browser": "^7.0.0",
         "cordova-plugin-vibration": "3.1.1"
     },
     "cordova": {
